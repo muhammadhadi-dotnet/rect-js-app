@@ -1,4 +1,3 @@
-// src/components/StarRating.jsx
 import React from 'react';
 
 const StarRating = ({ rating, setRating }) => {

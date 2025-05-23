@@ -45,8 +45,6 @@ const ServiceProviderView = () => {
     }
   }, [id]);
 
-
-  // Options for select fields
   const religionOptions = [
     { value: 'Islam', label: 'Islam' },
     { value: 'Christianity', label: 'Christianity' },
